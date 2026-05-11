@@ -22,5 +22,11 @@
         "key": "4815162342@M@ss1",
         "expirydate": "15-06-2099",
         "Allowoffline": true
+   },   
+   {
+        "device_id": "054f996c1a350f59",
+        "key": "4815162342@T4r4k",
+        "expirydate": "15-06-2099",
+        "Allowoffline": true
    }
 ]
