@@ -66,10 +66,10 @@
         "Allowoffline": true
    }, 
    {
-        "device_id": "91a3294db91c556e",
-        "key": "4815162342@R4ch1d",
+        "device_id": "0000000",
+        "key": "00000000@R4ch1d",
         "expirydate": "15-06-2099",
-        "Allowoffline": true
+        "Allowoffline": false
    },   
    {
         "device_id": "cfaa6befee890a39",
