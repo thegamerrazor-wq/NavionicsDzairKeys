@@ -106,5 +106,11 @@
         "key": "4815162342@4Bd€nn0uR",
         "expirydate": "15-06-2099",
         "Allowoffline": true
+   },
+   {
+        "device_id": "3dbc16eb6af09d30",
+        "key": "4815162342@S0uf14ne",
+        "expirydate": "15-06-2099",
+        "Allowoffline": true
    }
 ]
