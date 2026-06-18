@@ -274,6 +274,12 @@
         "key": "4815162342@Azzedinne",
         "expirydate": "15-06-2099",
         "Allowoffline": true
+    },
+    {
+        "device_id": "bb83de72b3e76690",
+        "key": "4815162342@Hicham",
+        "expirydate": "15-06-2099",
+        "Allowoffline": true
     }
     
 ]
