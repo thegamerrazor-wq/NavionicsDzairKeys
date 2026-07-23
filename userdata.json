@@ -438,8 +438,14 @@
         "Allowoffline": true
   }, 
   {
-        "device_id": "43f3389db36b2ccc",
+        "device_id": "43f3389db36bu2ccc",
         "key": "0664020982",
+        "expirydate": "15-06-2099",
+        "Allowoffline": true
+  },
+  {
+        "device_id": "fcc1eb969edbebbb",
+        "key": "0781585335",
         "expirydate": "15-06-2099",
         "Allowoffline": true
   }
