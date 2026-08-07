@@ -526,5 +526,11 @@
         "key": "0662100600",
         "expirydate": "15-06-2099",
         "Allowoffline": true
+},
+{
+        "device_id": "0024bb3fa944a696",
+        "key": "27920668",
+        "expirydate": "15-06-2099",
+        "Allowoffline": true
 }
 ]
