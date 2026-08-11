@@ -538,5 +538,11 @@
         "key": "0540848142",
         "expirydate": "15-06-2099",
         "Allowoffline": true
+},
+{
+        "device_id": "e99335c9b612ce06",
+        "key": "0673037525",
+        "expirydate": "15-06-2099",
+        "Allowoffline": true
 }
 ]
