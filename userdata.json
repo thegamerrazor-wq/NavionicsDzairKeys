@@ -604,5 +604,11 @@
         "key": "0673939717",
         "expirydate": "15-06-2099",
         "Allowoffline": true
-    }
+},
+{
+        "device_id": "Hichem",
+        "key": "0551957468",
+        "expirydate": "15-06-2099",
+        "Allowoffline": true
+}
 ]
