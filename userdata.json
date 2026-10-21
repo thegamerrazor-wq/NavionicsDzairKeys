@@ -270,10 +270,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "eefc4373b9c1a3c8",
-        "key": "0795405084",
+        "device_id": "null",
+        "key": "null",
         "expirydate": "15-06-2099",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "bb83de72b3e76690",
