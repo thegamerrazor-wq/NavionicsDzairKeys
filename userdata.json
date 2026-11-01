@@ -288,10 +288,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "",
-        "key": "",
+        "device_id": "9c7fa5c1db6f0ae7",
+        "key": "0560980162",
         "expirydate": "15-06-2099",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "058efbbc92aee57a",
